@@ -19,11 +19,11 @@ Please cite our [paper](https://arxiv.org/abs/2007.11431) if you find it useful 
 
 The learnable cost volume can be easily implemented using either pytorch or tensorflow.
 
-For the pytorch implementation, please refer to [`corr.py`](https://github.com/Prinsphield/LCV/blob/master/corr.py)
+For the pytorch implementation, please refer to [`corr.py`](https://github.com/Prinsphield/LCV/blob/main/corr.py)
 This code is modified for RAFT+LCV.
 Compare the classes `LearnableCorrBlock` with `CorrBlock` to know the differences between learnable cost volume and vanilla cost volume.
 
-For the tensorflow implementation, please refer to [`network.py`](https://github.com/Prinsphield/LCV/blob/master/network.py#L122-L162) for details.
+For the tensorflow implementation, please refer to [`network.py`](https://github.com/Prinsphield/LCV/blob/main/network.py#L122-L162) for details.
 This code is modified for DDFlow+LCV.
 
 
