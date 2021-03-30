@@ -2,7 +2,7 @@
 
 Taihong Xiao, Jinwei Yuan, Deqing Sun, Qifei Wang, Xin-Yu Zhang, Kehan Xu, Ming-Hsuan Yang
 
-Please cite our paper if you find it useful to your research.
+Please cite our [paper](https://arxiv.org/abs/2007.11431) if you find it useful to your research.
 ```
 @inproceedings{xiao2020learnable,
     title={Learnable cost volume using the cayley representation},
